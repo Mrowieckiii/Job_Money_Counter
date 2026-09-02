@@ -1,0 +1,142 @@
+[
+  {
+    "pytanie": "W języku JavaScript funkcja querySelectorAll() zwraca:",
+    "odpowiedzA": "Pojedynczy element HTML",
+    "odpowiedzB": "Kolekcję NodeList zawierającą dopasowane elementy",
+    "odpowiedzC": "Tablicę wartości tekstowych",
+    "poprawna": "B"
+  },
+  {
+    "pytanie": "Która klauzula SQL służy do filtrowania wyników funkcji agregujących (np. po użyciu GROUP BY)?",
+    "odpowiedzA": "WHERE",
+    "odpowiedzB": "HAVING",
+    "odpowiedzC": "ORDER BY",
+    "poprawna": "B"
+  },
+  {
+    "pytanie": "W programowaniu obiektowym mechanizm przejmowania pól i metod z klasy bazowej to:",
+    "odpowiedzA": "Dziedziczenie",
+    "odpowiedzB": "Polimorfizm",
+    "odpowiedzC": "Enkapsulacja",
+    "poprawna": "A"
+  },
+  {
+    "pytanie": "Który znacznik HTML5 służy do osadzenia kodu JavaScript w dokumencie?",
+    "odpowiedzA": "<script>",
+    "odpowiedzB": "<js>",
+    "odpowiedzC": "<javascript>",
+    "poprawna": "A"
+  },
+  {
+    "pytanie": "W CSS właściwość z-index odpowiada za:",
+    "odpowiedzA": "Przezroczystość elementu",
+    "odpowiedzB": "Kolejność nakładania się elementów na osi Z",
+    "odpowiedzC": "Szerokość marginesu zewnętrznego",
+    "poprawna": "B"
+  },
+  {
+    "pytanie": "Jaka jest rola metody preventDefault() w obsłudze zdarzeń JavaScript?",
+    "odpowiedzA": "Zatrzymuje dalsze wykonywanie pętli",
+    "odpowiedzB": "Blokuje domyślną akcję przeglądarki dla danego zdarzenia",
+    "odpowiedzC": "Usuwa element z drzewa DOM",
+    "poprawna": "B"
+  },
+  {
+    "pytanie": "Które polecenie SQL usuwa całą tabelę wraz z jej strukturą z bazy danych?",
+    "odpowiedzA": "DELETE TABLE",
+    "odpowiedzB": "TRUNCATE TABLE",
+    "odpowiedzC": "DROP TABLE",
+    "poprawna": "C"
+  },
+  {
+    "pytanie": "W języku PHP zmienna superglobalna $_POST służy do:",
+    "odpowiedzA": "Pobierania danych przesłanych w adresie URL",
+    "odpowiedzB": "Pobierania danych przesłanych nagłówkiem HTTP z formularza z metodą POST",
+    "odpowiedzC": "Przechowywania danych sesji użytkownika",
+    "poprawna": "B"
+  },
+  {
+    "pytanie": "Który zapis CSS sprawi, że tekst w elemencie będzie pogrubiony?",
+    "odpowiedzA": "font-style: bold;",
+    "odpowiedzB": "font-weight: bold;",
+    "odpowiedzC": "text-decoration: bold;",
+    "poprawna": "B"
+  },
+  {
+    "pytanie": "W tabeli relacyjnej klucz obcy (Foreign Key) służy do:",
+    "odpowiedzA": "Jednoznacznego identyfikowania wiersza w tej samej tabeli",
+    "odpowiedzA": "Tworzenia powiązania z kluczem głównym innej tabeli",
+    "odpowiedzC": "Szyfrowania danych w kolumnie",
+    "poprawna": "B"
+  },
+  {
+    "pytanie": "W języku JavaScript operator === porównuje:",
+    "odpowiedzA": "Wyłącznie wartości zmiennych",
+    "odpowiedzB": "Wartości oraz typy danych",
+    "odpowiedzC": "Wskaźniki w pamięci RAM",
+    "poprawna": "B"
+  },
+  {
+    "pytanie": "Który format graficzny obsługuje przezroczystość oraz animacje klatkowe?",
+    "odpowiedzA": "JPEG",
+    "odpowiedzB": "GIF",
+    "odpowiedzC": "BMP",
+    "poprawna": "B"
+  },
+  {
+    "pytanie": "Jaki wynik da wyrażenie 2 + '2' w języku JavaScript?",
+    "odpowiedzA": "4",
+    "odpowiedzB": "'22'",
+    "odpowiedzC": "NaN",
+    "poprawna": "B"
+  },
+  {
+    "pytanie": "Które słowo kluczowe w języku C# lub Java uniemożliwia dziedziczenie po danej klasie?",
+    "odpowiedzA": "static",
+    "odpowiedzB": "sealed / final",
+    "odpowiedzC": "abstract",
+    "poprawna": "B"
+  },
+  {
+    "pytanie": "Co oznacza skrót ORM w kontekście programowania aplikacji z bazą danych?",
+    "odpowiedzA": "Object-Relational Mapping",
+    "odpowiedzB": "Online Relational Management",
+    "odpowiedzC": "Optimal Resource Method",
+    "poprawna": "A"
+  },
+  {
+    "pytanie": "W CSS3 model układy Flexbox aktywuje się ustawieniem właściwości:",
+    "odpowiedzA": "display: flex;",
+    "odpowiedzB": "position: flex;",
+    "odpowiedzC": "layout: flexbox;",
+    "poprawna": "A"
+  },
+  {
+    "pytanie": "W języku SQL zapytanie SELECT COUNT(*) FROM pracownicy zwraca:",
+    "odpowiedzA": "Sumę wartości w kolumnie",
+    "odpowiedzB": "Liczbę wszystkich wierszy w tabeli",
+    "odpowiedzC": "Średnią wartość z wierszy",
+    "poprawna": "B"
+  },
+  {
+    "pytanie": "Do czego w języku JS służy metoda JSON.parse()?",
+    "odpowiedzA": "Zamienia obiekt JS na ciąg znaków w formacie JSON",
+    "odpowiedzB": "Przekształca tekst w formacie JSON na obiekt JS",
+    "odpowiedzC": "Wysyła dane JSON na serwer",
+    "poprawna": "B"
+  },
+  {
+    "pytanie": "Który protokół zapewnia szyfrowane połączenie podczas przesyłania stron www?",
+    "odpowiedzA": "HTTP",
+    "odpowiedzB": "HTTPS",
+    "odpowiedzC": "FTP",
+    "poprawna": "B"
+  },
+  {
+    "pytanie": "Jaka jest domyślna wartość właściwości position w CSS dla każdego elementu?",
+    "odpowiedzA": "relative",
+    "odpowiedzB": "static",
+    "odpowiedzC": "absolute",
+    "poprawna": "B"
+  }
+]
